@@ -14,7 +14,7 @@ Bienvenido a mi repositorio de proyectos en Python. Este proyecto es una aplicac
 - **Ejemplo**: El usuario puede ingresar un gasto con una cantidad y una categoría (`comida`, `transporte`, etc.) y luego ver el total de sus gastos o filtrar por una categoría específica.
 - **Habilidades**: Estructuras de datos (listas y diccionarios), bucles `while`, funciones, funciones `lambda` para operaciones de mapeo y filtrado, y entrada/salida de usuario.
 - **Captura de pantalla**:
-  ![Ejemplo Rastreador](expense_tracker_program.png)
+  ![Ejemplo Rastreador](expense_traker_program.png)
 
 ---
 
