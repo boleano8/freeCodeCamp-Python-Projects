@@ -12,7 +12,7 @@ Bienvenido a mi repositorio personal de proyectos en Python. Aquí presento una 
 - **Ejemplo**: Para el texto encriptado 'mrttaqrhknsw ih puggrur' con la clave 'happycoding', la salida es: `Decrypted text: my name is cesar`
 - **Habilidades**: Bucles, condicionales, operaciones modulares, manipulación de cadenas de texto.
 - **Captura de pantalla**:
-  ![Ejemplo Cifrador](https://github.com/boleano8/freeCodeCamp-Python-Projects)
+  ![Ejemplo Cifrador](proyect_1-encrypt-decrypt/encrypt_decrypt.png)
 
 ---
 
@@ -49,4 +49,5 @@ Bienvenido a mi repositorio personal de proyectos en Python. Aquí presento una 
 
 Proyecto creado el 16/09/2025. ¡Gracias por visitar! 🌟
 #Python #Cifrado #Vigenere #Criptografia
+
 
