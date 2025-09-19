@@ -39,19 +39,10 @@
 ## Cómo empezar
 
 1. Clona este repositorio: `git clone <https://github.com/boleano8/freeCodeCamp-Python-Projects>`
-2. Navega a la carpeta de un proyecto: `cd projects/project1-arithmetic-formatter`
-3. Ejecuta el script principal: `python main.py`
-4. Ejecuta las pruebas: `python -m unittest test_module.py`
-
-Explora el `README.md` de cada proyecto para instrucciones específicas y objetivos de aprendizaje.**: Formatea problemas aritméticos (suma y resta) verticalmente y, opcionalmente, muestra resultados.
-- **Budget App**: Administra presupuestos y rastrea gastos.
-- *(Más proyectos por añadir)*
-
-## Cómo empezar
-
-1. Clona este repositorio: `git clone <url-del-repositorio>`
-2. Navega a la carpeta de un proyecto: `cd projects/project1-arithmetic-formatter`
-3. Ejecuta el script principal: `python main.py`
+2. Navega a la carpeta de un proyecto: `cd projects/project_2-caesar-cypher`
+3. Ejecuta el script principal: `caesar_cypher.py`
 4. Ejecuta las pruebas: `python -m unittest test_module.py`
 
 Explora el `README.md` de cada proyecto para instrucciones específicas y objetivos de aprendizaje.
+
+
