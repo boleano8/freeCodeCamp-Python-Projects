@@ -9,7 +9,8 @@ Bienvenido a mi repositorio de proyectos en Python. Este proyecto es una aplicac
 ### EleganciaAritmética
 - **Descripción**: Este programa toma una lista de problemas aritméticos (sumas y restas) y los formatea verticalmente con alineación a la derecha, guiones inferiores y, opcionalmente, las respuestas. Utiliza listas y manipulación de cadenas para lograr un diseño claro y profesional, ideal para estudiantes o ejercicios matemáticos.
 - **Archivo**: [arithmetic_arranger.py](arithmetic_arranger.py)
-- **Ejemplo**: La entrada `["3801 - 2", "123 + 49", "300 + 45"]` con `show_answers=True` produce:!(ejemplo_for_readme.png).
+- **Ejemplo**: La entrada `["3801 - 2", "123 + 49", "300 + 45"]` con `show_answers=True` produce:
+- ![Ejemplo solución](ejemplo_for_readme.png).
 - - **Habilidades**: Listas, manipulación de cadenas (`rjust`, `join`), funciones, lógica condicional, validación de entrada.
 - **Captura de pantalla**:
 ![Ejemplo EleganciaAritmética](arrange_arithmetic.png) 
