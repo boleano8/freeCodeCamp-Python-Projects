@@ -29,5 +29,17 @@ Bienvenido a mi repositorio de proyectos en Python. Este proyecto es una aplicac
 2. Navega a la carpeta del proyecto en tu terminal.
 3. Ejecuta el programa con el siguiente comando:
 
+---
+
+## Tecnologías
+
+-   **Lenguaje**: Python 3.x
+-   **Editor**: PowerShell
+
+---
+
+## Licencia
+
+[MIT License](LICENSE) - Este proyecto es de uso y modificación libre.
  ```bash
  python arithmetic_arranger.py
