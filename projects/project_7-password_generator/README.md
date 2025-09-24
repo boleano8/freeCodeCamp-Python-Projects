@@ -12,7 +12,7 @@ Bienvenido a mi repositorio de proyectos en Python. Este proyecto es una aplicac
   (El resultado varía en cada ejecución debido a la aleatoriedad).
 - **Habilidades**: Módulo `secrets`, expresiones regulares (`re`), manipulación de cadenas, lógica condicional, funciones, validación de entrada.
 - **Captura de pantalla**:  
-  ![Ejemplo PasswordGenerator](password_generator_example.png)
+  ![Ejemplo PasswordGenerator](password_generator.png)
 
 ---
 
@@ -30,4 +30,15 @@ Bienvenido a mi repositorio de proyectos en Python. Este proyecto es una aplicac
    ```bash
    python password_generator.py
 
+---
 
+## Tecnologías
+
+-   **Lenguaje**: Python 3.x
+-   **Editor**: PowerShell
+
+---
+
+## Licencia
+
+[MIT License](LICENSE) - Este proyecto es de uso y modificación libre.
